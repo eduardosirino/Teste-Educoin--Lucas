@@ -44,7 +44,7 @@ Precisara criar uma aplicação com nextjs, o visual ficara de escopo aberto pod
  - Mostrar error e fazer validação no formulário de login
  - Na página de login precisa validar se o usuário se fica na aplicação ou vai para a dashboard.
  - Precisará página quando o for ligar como CLIENTE mostrar os dados pessoais e listagem dos usuários da API.
- - Incluir barra de pesquisa 
+ - Incluir barra de pesquisa de usuários por nome e e-mail 
  - 
  - Ainda, o desenvolvedor deve criar a tela do link: https://www.figma.com/file/12nCUBEVA2SwZ872XgRHmP/Untitled?type=design&node-id=0%3A1&mode=design&t=zIDBdykV5IA6ZLT4-1 que será a tela de login.
 
